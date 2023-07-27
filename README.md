@@ -6,7 +6,7 @@ Configuraciones para personalización del entorno de escritorio i3 con ManjaroI3
 
 * **Alacritty**: Emulador de terminal
 * **Neovim**: Editor de texto
-* **Zsh**: Shell
+* **Zsh**: Shell con configuración de Manjaro
 * **Rofi**: Lanzador de aplicaciones
 * **I3**: Manejador de ventanas tipo tilling
 * **I3 status**: Panel de herramientas
@@ -48,14 +48,15 @@ Configuraciones para personalización del entorno de escritorio i3 con ManjaroI3
 ```
 
 ## Paleta de colores
-<div style="background-color:#1b1e21; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#e5e9f0;font-weight:bold;">Background</span></div>
-<div style="background-color:#333946; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#e5e9f0;font-weight:bold;">Black</span></div>
-<div style="background-color:#bf616a; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#1b1e21;font-weight:bold;">Red</span></div>
-<div style="background-color:#a3be8c; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#1b1e21;font-weight:bold;">Green</span></div>
-<div style="background-color:#ebcb8b; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#1b1e21;font-weight:bold;">Yellow</span></div>
-<div style="background-color:#5f758b; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#1b1e21;font-weight:bold;">Blue</span></div>
-<div style="background-color:#b48ead; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#1b1e21;font-weight:bold;">Magenta</span></div>
-<div style="background-color:#88c0d0; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#1b1e21;font-weight:bold;">Cyan</span></div>
-<div style="background-color:#e5e9f0; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#1b1e21;font-weight:bold;">White</span></div>
-<div style="background-color:#a0a1a1; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#e5e9f0;font-weight:bold;">Hightlight 1</span></div>
-<div style="background-color:#3c83d9; text-align:center; vertical-align: middle; padding:40px 0;"><span style="color:#e5e9f0;font-weight:bold;">Hightlight 2</span></div>
+
+* Background:   #1b1e21
+* Black:        #333946
+* Red:          #bf616a
+* Green:        #a3be8c
+* Yellow:       #ebcb8b
+* Blue:         #5f758b
+* Magenta:      #b48ead
+* Cyan:         #88c0d0
+* White:        #e5e9f0
+* Hightlight 1: #a0a1a1
+* Hightlight 2: #3c83d9
